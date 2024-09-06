@@ -5,7 +5,7 @@ I'm a **full-time student** @ University of Bologna, Computer Science and Engine
 
 I consider myself as an _eager_ and _highly motivated_ **learner**, quite often trying to go beyond the 'educational level' of concepts taught during lectures.
 
-I'm currently spending a slice of my spare time trying to learn new popular and niche technologies such as **React.js** for Web Development (in order to develop my personal portfolio and academic notes collector), LateX (which I use to organize lecture notes) and Manim (a Python library created by the famous YouTuber and Math popularizer _3blue1brown_).
+I'm currently spending a slice of my spare time trying to learn new popular and niche technologies such as **React.js** for Web Development (in order to develop my personal portfolio and academic notes collector), **LateX** (which I use to organize lecture notes) and **Manim** (a Python library created by the famous YouTuber and Math popularizer _3blue1brown_).
 
 I tutor some High School students in Math and Computer Science as odd job, and sometimes I carry out projects that helps me discover new technologies and techniques. I've recently dived into Vue.js and Python, which are in my to-learn list.
 
