@@ -9,7 +9,7 @@ I'm currently spending a slice of my spare time trying to learn new popular and 
 
 I tutor some High School students in Math and Computer Science as odd job, and sometimes I carry out projects that helps me discover new technologies and techniques. I've recently dived into Vue.js and Python, which are in my to-learn list.
 
-I have a personal website in construction, here the link where it will be deployed: [nickolausen.github.io/](nickolausen.github.io/)
+I have a personal website under construction, here the link where it will be deployed: [nickolausen.github.io/](nickolausen.github.io/)
 
 Here some stats from my GitHub account:
 <div align="center">
