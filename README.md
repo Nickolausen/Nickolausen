@@ -18,7 +18,7 @@ Check out my **LinkedIn** account for more detailed information about my previou
 Here some random stats from my GitHub account:
 <div align="center">
   <a href="https://github.com/nickolausen/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nickolausen&theme=transparent" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nickolausen&theme=transparent&rank_icon=github" />
   </a>
   <a href="https://github.com/nickolausen/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickolausen&layout=compact&langs_count=8&card_width=320&theme=transparent" />
