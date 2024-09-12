@@ -5,6 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consola+Sans&pause=1000&color=2FF722&background=00C2FF00&center=true&vCenter=true&multiline=true&random=true&width=435&height=62&lines=Aspirant+Software+Engineer;CS+and+Engineering+Student+%40+UniBO" alt="Typing SVG" /></a>
 </div>
 <hr>
+
 I'm a **full-time student** @ University of Bologna, Computer Science and Engineering course - Cesena Campus. 
 
 I consider myself as an _eager_ and _highly motivated_ **learner**, quite often trying to go beyond the 'educational level' of concepts taught during lectures.
