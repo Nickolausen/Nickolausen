@@ -11,17 +11,16 @@ I tutor some High School students in Math and Computer Science as odd job, and s
 
 I have a personal website under construction, here the link where it will be deployed: [nickolausen.github.io/](nickolausen.github.io/)
 
-Here some stats from my GitHub account:
-<div align="center">
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickolausen)](https://github.com/nickolausen/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickolausen)](https://github.com/nickolausen/github-readme-stats) 
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=nickolausen)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-
-
 Check out my **LinkedIn** account for more detailed information about my previous work experiences: 
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nicholas-magi-23a5a2240/)
+
+Here some random stats from my GitHub account:
+<div align="center">
+  <a href="https://github.com/nickolausen/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nickolausen&theme=transparent" />
+  </a>
+  <a href="https://github.com/nickolausen/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickolausen&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  </a>
+</div>
