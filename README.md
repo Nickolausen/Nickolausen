@@ -30,5 +30,5 @@ Here some random stats from my GitHub account:
   </a>
   <br/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Nickolausen&color=red&label=STALKERS" />
+  <img src="https://komarev.com/ghpvc/?username=Nickolausen&color=red&label=STALKERS&abbreviated=true&style=for-the-badge" />
 </div>
