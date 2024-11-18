@@ -1,5 +1,5 @@
 # _Nickolausen_ GitHub profile
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,react,vite,figma,latex,java,kotlin,py,c,cs,dotnet,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,react,vite,bash,latex,java,kotlin,py,c,cs,dotnet,github)](https://skillicons.dev)
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consola+Sans&pause=1000&color=2FF722&background=00C2FF00&center=true&vCenter=true&multiline=true&random=true&width=435&height=62&lines=Aspirant+Software+Engineer;CS+and+Engineering+Student+%40+UniBO" alt="Typing SVG" /></a>
