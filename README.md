@@ -28,4 +28,7 @@ Here some random stats from my GitHub account:
   <a href="https://github.com/nickolausen/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickolausen&layout=compact&langs_count=8&card_width=320&theme=transparent" />
   </a>
+  <br/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Nickolausen&color=red&label=STALKERS" />
 </div>
