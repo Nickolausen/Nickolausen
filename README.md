@@ -33,7 +33,7 @@ Here some random stats from my GitHub account:
 
 ## Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,jquery,html,css,react,vite,bash,latex,java,kotlin,py,c,cs,dotnet,github"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,bash,latex,java,kotlin,py,c,cs,dotnet,github,git"/>
   <br/>
   <sub>I'm still learning some of these – so please don't expect too much!</sub>
 </div>
