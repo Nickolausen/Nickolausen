@@ -19,9 +19,14 @@ I tutor some High School students in Math and Computer Science as odd job, and s
 
 I have a personal website (which is *work in progress*), serving solely as portfolio for the moment - more features are going to be added in a foreseeable future: [https://nicholasmagi.it](https://nicholasmagi.it)
 
-| [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nicholas-magi-23a5a2240/) | Check out my **LinkedIn** account for more detailed information about my previous work experiences! |
-| --- | --- |
-
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/nicholas-magi-23a5a2240/"><img src="https://skillicons.dev/icons?i=linkedin"></a></td>
+      <td>Check out my <strong>LinkedIn</strong> account for more detailed information about my previous work experiences!</td>
+    </tr>
+  </table>
+</div>
 
 ## `> which skills`
 <div align="center">
