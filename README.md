@@ -17,7 +17,9 @@ I'm currently spending a slice of my spare time trying to learn new popular and 
 
 I tutor some High School students in Math and Computer Science as odd job, and sometimes I carry out projects that helps me discover new technologies and techniques. I've recently dived into Vue.js and Python, which are in my to-learn list.
 
-I have a personal website (which is *work in progress*), serving solely as portfolio for the moment - more features are going to be added in a foreseeable future: [https://nicholasmagi.it](https://nicholasmagi.it)
+I have a personal website (which is *work in progress*), serving solely as portfolio for the moment - more features are going to be added in a foreseeable future: [nicholasmagi.it](https://nicholasmagi.it)
+
+For university-related projects, check my organization [`@NickolausenTheAcademic`](https://github.com/NickolausenTheAcademic)
 
 <div align="center">
   <table>
