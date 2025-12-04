@@ -1,6 +1,10 @@
 # _Nickolausen_ GitHub profile
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consola+Sans&pause=1000&color=2FF722&background=00C2FF00&center=true&vCenter=true&multiline=true&random=true&width=435&height=62&lines=Aspirant+Software+Engineer;CS+and+Engineering+Student+%40+UniBO" alt="Typing SVG" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/contributions-snake/dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/contributions-snake/light.svg" />
+    <img alt="github-snake" src="dist/contributions-snake/dark.svg" />
+  </picture>
 </div>
 <hr>
 
