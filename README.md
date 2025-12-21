@@ -8,7 +8,7 @@
 </div>
 <hr>
 
-## `> whoami`
+## `$ whoami`
 I'm a **full-time student** @ University of Bologna, Computer Science and Engineering course - Cesena Campus. 
 
 I consider myself as an _eager_ and _highly motivated_ **learner**, quite often trying to go beyond the 'educational level' of concepts taught during lectures.
@@ -30,7 +30,7 @@ For university-related projects, see my organization [`@NickolausenTheAcademic`]
   </table>
 </div>
 
-## `> which skills`
+## `$ which skills`
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,bash,latex,java,kotlin,py,c,cs,dotnet,github,git"/>
   <br/>
